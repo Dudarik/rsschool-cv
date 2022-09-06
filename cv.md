@@ -59,3 +59,23 @@ var sortArrayByParity = function (nums) {
 
 - [Simple Todo List](https://github.com/Dudarik/simpleTodo2) ([on gh-pages](https://dudarik.github.io/simpleTodo2/)) - Native JS (OOP, localStorage, indexedDB), SCSS.
 - [Train my mind](https://github.com/Dudarik/train-my-mind-react) ([on gh-pages](https://dudarik.github.io/train-my-mind-react/)) - React, React context, React router V6, TypeScript, SCSS.
+
+## Education
+
+- **Kurgan College of Technology** (2002)
+  Automated information management and processing systems
+- **Kurgan State University** (2004 - 2007 not finished)
+  Computer and Automated Systems Software
+
+### Courses
+
+- [Learn JavaScript](https://learn.javascript.ru/)
+- [React from scratch](https://www.udemy.com/course/react-from-scratch/)
+- [Redux](https://stepik.org/course/113714/syllabus)
+
+### Books
+
+- CSS: The Missing Manual (David McFarland)
+- Secrets of the JavaScript Ninja (John Resig, Bear Bibeault)
+- Responsive Web Design with HTML5 and CSS (Ben Frain)
+- [Typescript definitive guide](https://typescript-definitive-guide.ru/) - read now
