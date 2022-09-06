@@ -12,7 +12,10 @@
 
 ## About me
 
-<!--TODO About me. This is so hard for me-->
+My goal is to be fully trained on the course, to gain the knowledge necessary for working in the field of web development in order to compete with dignity when applying for a job.
+I have no official experience in web development.
+Recently I have been constantly studying, I am motivated by the increase in my level as a specialist in the field of web development.
+I know how to work independently, find solutions, search for information, and also interact perfectly in the team.
 
 ## Skills
 
