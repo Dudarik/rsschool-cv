@@ -27,3 +27,23 @@
 - Git/Github
 - OS: Windows, MacOS, Linux(Ubuntu)
 - IDE: VSCode
+
+## Code example:
+
+##### [Leetcode.com](https://leetcode.com/problems/sort-array-by-parity/)
+
+##### 905. Sort Array By Parity
+
+    Given an integer array nums, move all the even integers at the beginning of the array followed by all the odd integers.
+    Return any array that satisfies this condition.
+
+```javascript
+/**
+ * @param {number[]} nums
+ * @return {number[]}
+ */
+
+var sortArrayByParity = function (nums) {
+  return nums.sort((a) => (a % 2 ? 1 : -1));
+};
+```
