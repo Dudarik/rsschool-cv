@@ -26,3 +26,4 @@
 - SQL DB/NoSQL DB (basic)
 - Git/Github
 - OS: Windows, MacOS, Linux(Ubuntu)
+- IDE: VSCode
