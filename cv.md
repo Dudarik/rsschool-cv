@@ -47,3 +47,15 @@ var sortArrayByParity = function (nums) {
   return nums.sort((a) => (a % 2 ? 1 : -1));
 };
 ```
+
+## Work experience:
+
+###Education projects:
+
+- [Flags](https://github.com/Dudarik/react-flags) - React with hooks, React router, Redux,
+- [Dashborad](https://github.com/Dudarik/dashboard-app-react-redux) ([on vercel](https://dashboard-app-react-redux.vercel.app/)) - React with hooks, Redux
+
+###My projects(not finished):
+
+- [Simple Todo List](https://github.com/Dudarik/simpleTodo2) ([on gh-pages](https://dudarik.github.io/simpleTodo2/)) - Native JS (OOP, localStorage, indexedDB), SCSS.
+- [Train my mind](https://github.com/Dudarik/train-my-mind-react) ([on gh-pages](https://dudarik.github.io/train-my-mind-react/)) - React, React context, React router V6, TypeScript, SCSS.
