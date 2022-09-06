@@ -50,12 +50,12 @@ var sortArrayByParity = function (nums) {
 
 ## Work experience:
 
-###Education projects:
+### Education projects:
 
 - [Flags](https://github.com/Dudarik/react-flags) - React with hooks, React router, Redux,
 - [Dashborad](https://github.com/Dudarik/dashboard-app-react-redux) ([on vercel](https://dashboard-app-react-redux.vercel.app/)) - React with hooks, Redux
 
-###My projects(not finished):
+### My projects(not finished):
 
 - [Simple Todo List](https://github.com/Dudarik/simpleTodo2) ([on gh-pages](https://dudarik.github.io/simpleTodo2/)) - Native JS (OOP, localStorage, indexedDB), SCSS.
 - [Train my mind](https://github.com/Dudarik/train-my-mind-react) ([on gh-pages](https://dudarik.github.io/train-my-mind-react/)) - React, React context, React router V6, TypeScript, SCSS.
@@ -63,9 +63,9 @@ var sortArrayByParity = function (nums) {
 ## Education
 
 - **Kurgan College of Technology** (2002)
-  Automated information management and processing systems
+  - Automated information management and processing systems
 - **Kurgan State University** (2004 - 2007 not finished)
-  Computer and Automated Systems Software
+  - Computer and Automated Systems Software
 
 ### Courses
 
