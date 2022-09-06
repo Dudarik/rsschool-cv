@@ -79,3 +79,8 @@ var sortArrayByParity = function (nums) {
 - Secrets of the JavaScript Ninja (John Resig, Bear Bibeault)
 - Responsive Web Design with HTML5 and CSS (Ben Frain)
 - [Typescript definitive guide](https://typescript-definitive-guide.ru/) - read now
+
+## Language
+
+- Russian - native
+- English - A1 - A2 (test says)
